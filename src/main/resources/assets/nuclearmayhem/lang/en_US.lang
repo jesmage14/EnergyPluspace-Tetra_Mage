@@ -1,0 +1,26 @@
+//Block Names
+
+tile.SteelBlock.name=Steel Block
+tile.ZincOre.name=Zinc Ore
+tile.CopperOre.name=Copper Ore
+tile.LeadOre.name=Lead Ore
+tile.SilverOre.name=Silver Ore
+tile.ReactorContainmentBlock.name=Reactor Containment Block
+tile.CementBlock.name=Cement Block
+
+//Item Names
+
+item.ZincIngot.name=Zinc Ingot
+item.CopperIngot.name=Copper Ingot
+item.LeadIngot.name=Lead Ingot
+item.CadmiumIngot.name=Cadmium Ingot
+item.IndiumIngot.name=Indium Ingot
+itemGroup.NuclearMayhemTab=Nuclear Mayhem Tab
+item.SilverIngot.name=Silver Ingot
+item.SteelIngot.name=Steel Ingot
+item.TurbineBlade.name=Turbine Blade
+item.TurbineHub.name=Turbine Hub
+item.TurbineHead.name=Turbine Head
+item.WaterProofing.name=Water Proofing
+item.SteelSupport.name=Steel Support
+item.HydroelectricTurbine.name=Hydroelectric Turbine
